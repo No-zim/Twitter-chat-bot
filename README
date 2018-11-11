@@ -1,0 +1,25 @@
+To run you need python3, but not python 3.7(it is not supported yet) 
+
+In addition, you will need a twitter account (you can use your own or create a new one) I recommend creating a new one
+
+At this point I assume you created a puppet account on twitter and have login and password for that account.
+Go to www.developer.twitter.com and Apply using your login and password. Follow the steps of setting up account.
+You will need to verify your phone # and email address there, and explain what will you be doing
+
+Now that you've set up you developer account go to top right corner where it says your account name: 
+    go to apps
+    create app
+    fill out 'App name' = somename, 'Website URL'= somename.io 
+    fill out 'Application description' = write what you want to use it for
+    fill out 'Tell us how this app will be used' = copy paste from Application description
+    create
+    
+You are promted with app details
+    go to 'keys and tokens'
+          go to 'Access token & access token secret' press 'generate'
+          
+It creates two sentenses of random letters and numbers, and you are done with this step
+
+Now go the code, without closing your browser window because you will need 
+:Consumer API keys
+:Access token & access token secret
